@@ -1,0 +1,33 @@
+.input[type=text] {
+    width: 100px;
+    -webkit-transition: width 0.4s ease-in-out;
+    transition: width 0.4s ease-in-out;
+}
+
+/* When the input field gets focus, change its width to 100% */
+input[type=text]:focus {
+    width: 90%;
+}
+body{
+	background-image: url("YGn3ud2.jpg");
+}
+p{
+	color: 	#000066;
+	font-family: Courier;
+	font-size: 137px;
+}
+h3{
+	color: #02024a;
+	font-family: Courier;
+
+}
+a:link{
+    text-decoration: none;
+    color: white;
+}
+a:hover{
+    color: #ffbf00;
+}
+a:visited{
+    color: black;
+}
